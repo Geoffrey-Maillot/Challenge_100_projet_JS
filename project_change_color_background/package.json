@@ -1,0 +1,9 @@
+{
+  "name": "project_change_color_background",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "typecript": "^0.0.1-security"
+  }
+}
